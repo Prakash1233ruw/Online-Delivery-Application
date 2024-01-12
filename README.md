@@ -1,0 +1,1 @@
+A Loose Coupling project
